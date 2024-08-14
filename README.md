@@ -1,11 +1,11 @@
-# Hi there, i'm Mijael, it's a pleasure know us 👋
+## Hi there, i'm Mijael, it's a pleasure know us 👋
 
-## I am currently in the 8th cycle of the Systems Engineering degree.
+I am currently in the 8th cycle of the Systems Engineering degree.
 
 I like artificial intelligence and solving complicated problems, I hope to build a career that includes these two factors.
 Sometimes I like to think a lot about the meaning of things, sometimes not so much. I also like the song Chandelier by Will Paquin, it's really good, check it out.
 
-## I'm learning React, Javascript, SQL 🌱
+### I'm learning React, Javascript, SQL 🌱
 ## I am currently doing my pre-professional internship as a volunteer with Nassf Travel. 🔭
 
 ## My main goal is to be able to put bread on the table at home and I hope to be able to feel proud of my decisions in the future.
